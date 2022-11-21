@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "accronyme",
+  "info": {
+    "singularName": "accronymes",
+    "pluralName": "accronyme",
+    "displayName": "acronymes",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "acronyme": {
+      "type": "text"
+    }
+  }
+}
